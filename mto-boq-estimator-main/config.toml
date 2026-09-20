@@ -1,0 +1,14 @@
+[theme]
+# BOQGen brand theme. Kept to the small set of keys every Streamlit
+# version reliably supports (font is one of "sans serif" | "serif" |
+# "monospace" - a custom Google Font is layered on top via CSS injection
+# in ui/theme.py for versions that don't support [theme.fontFaces]).
+base = "light"
+primaryColor = "#0D9488"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FB"
+textColor = "#0B1E3D"
+font = "sans serif"
+
+[server]
+maxUploadSize = 25

@@ -1,0 +1,10 @@
+streamlit
+groq
+pymupdf
+opencv-python-headless
+pandas
+pydantic
+openpyxl
+reportlab
+Pillow
+numpy
